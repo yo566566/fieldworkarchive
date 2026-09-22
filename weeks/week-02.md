@@ -12,7 +12,8 @@ permalink: /weeks/week-02/
 ## TRACE｜痕跡
 
 ![圖片說明](assets/images/w02-01.jpg)
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![圖片說明](assets/images/w02-02.jpg)
+這是一個尋找慾望路徑的活動，
 
 ## FRICTION｜摩擦
 
