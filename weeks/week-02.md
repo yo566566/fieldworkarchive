@@ -11,8 +11,8 @@ permalink: /weeks/week-02/
 
 ## TRACE｜痕跡
 
-![圖片說明](assets/images/w02-01.jpg)
-![圖片說明](assets/images/w02-02.jpg)
+![圖片說明]({{ '/assets/images/w02-01.jpg' | relative_url }})
+![圖片說明]({{ '/assets/images/w02-02.jpg' | relative_url }})
 這是一個在校內尋找慾望路徑的活動。小組成員們正好都是對校內環境還不熟新生，但也正因如此，我們在活動中多了冒險的新鮮感。
 
 在人社一館和圖書館間，我們被一個平時不起眼的平台感到好奇，是一個長條的石頭平台，上面有造景用的大石頭與無數顆小石頭，似乎還有一些不屬於那裡的物品？
