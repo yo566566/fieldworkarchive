@@ -11,4 +11,10 @@ permalink: /weeks/week-08/
 
 ## 課堂報告
 以下為課堂報告簡報，我好像把事情變得更複雜了!
+![圖片說明]({{ '/assets/images/w7-01.jpg' | relative_url }}) 
+![圖片說明]({{ '/assets/images/w7-01.jpg' | relative_url }}) 
+![圖片說明]({{ '/assets/images/w7-01.jpg' | relative_url }}) 
+![圖片說明]({{ '/assets/images/w7-01.jpg' | relative_url }}) 
+![圖片說明]({{ '/assets/images/w7-01.jpg' | relative_url }}) 
+
 
