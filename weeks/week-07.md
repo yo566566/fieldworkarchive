@@ -7,11 +7,16 @@ permalink: /weeks/week-07/
 
 # 期中製作實驗室
 
-> 請保留具體的現場、材料、語句或身體感受。
+> 期中初期提案，一共提了2件作品
 
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+ ![圖片說明]({{ '/assets/images/w7-01.jpg' | relative_url }}) 
+ ![圖片說明]({{ '/assets/images/w7-02.jpg' | relative_url }}) 
+ ![圖片說明]({{ '/assets/images/w7-03.jpg' | relative_url }}) 
+ ![圖片說明]({{ '/assets/images/w7-04.jpg' | relative_url }}) 
+ ![圖片說明]({{ '/assets/images/w7-05.jpg' | relative_url }}) 
+ ![圖片說明]({{ '/assets/images/w7-06.jpg' | relative_url }}) 
 
 ## FRICTION｜摩擦
 
