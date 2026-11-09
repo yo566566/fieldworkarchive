@@ -11,6 +11,7 @@ permalink: /weeks/week-07/
 
 ## TRACE｜痕跡
 
+以下為發想簡報:
  ![圖片說明]({{ '/assets/images/w7-01.jpg' | relative_url }}) 
  ![圖片說明]({{ '/assets/images/w7-02.jpg' | relative_url }}) 
  ![圖片說明]({{ '/assets/images/w7-03.jpg' | relative_url }}) 
@@ -18,15 +19,10 @@ permalink: /weeks/week-07/
  ![圖片說明]({{ '/assets/images/w7-05.jpg' | relative_url }}) 
  ![圖片說明]({{ '/assets/images/w7-06.jpg' | relative_url }}) 
 
-## FRICTION｜摩擦
-
-描述一個沒有如預期發生的瞬間。
-
-## CONNECTION｜連結
-
-選擇本週閱讀或課堂案例中的一個概念。它如何改變你對上述瞬間的理解？
-
 ## NEXT MOVE｜下一步
 
-如果把這個發現轉化成工具、介面、規則、身體技術或作品，你下一步會測試什麼？
+老師、同學的建議紀錄:
+第一件作品《身分偵探》，實作模仿的技藝，最好確保標準化。以切菜為例，鉆板、菜刀、服裝、切的蔬菜必須一致。而第二件作品提案《誰住在哪裡?》，則是需要注意「符號化」的問題，例如製造繁間的貼紙符號等。並且這件作品需要很多的餐與者效果才會好。
 
+我的反思:
+因為自己對「摸的到的作品」比較有感覺，因此應該會再發想其他媒介。
