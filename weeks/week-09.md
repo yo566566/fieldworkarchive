@@ -7,7 +7,7 @@ permalink: /weeks/week-09/
 
 # Situated Field Study
 
-> 你設計了什麼新的感知或行動能力，使你能以不同方式進入一個場域？
+> 我開始研究山寨文化，並提出作品執行計畫
 
 ## 山寨文化研究
 看完所有 https://shanzhailyric.info/?filter=projects 裡的 project 後，從衣服上的字開始——我的山寨文化研究筆記:
