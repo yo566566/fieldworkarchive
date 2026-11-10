@@ -17,6 +17,10 @@ permalink: /weeks/week-08/
 ![圖片說明]({{ '/assets/images/w8-04.jpg' | relative_url }}) 
 ![圖片說明]({{ '/assets/images/w8-05.jpg' | relative_url }}) 
 《以訛傳型》這件作品最大的缺點就是，假如我的目的是探討「集體審美」的存在的話。我就需要大量的人來參與作品，在這學期可行性不高。老師請我去研究「山寨文化」。
+
+## 下一步
+山寨文化研究
+
 ## 山寨文化研究
 看完所有 https://shanzhailyric.info/?filter=projects 裡的 project 後，從衣服上的字開始——我的山寨文化研究筆記:
 我一開始注意到，Shanzhai Lyric 的網站上有很多蒐集來的衣服照片。仔細看後，我發現他們常從衣服上的印花與文字說起。
